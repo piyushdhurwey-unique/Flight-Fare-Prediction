@@ -1,2 +1,3 @@
-# Krishi-Mitra
-An AI Powered , multilingual agricultural advisory system called Krishi Mitra was created to give Indian Farmers and stakeholders access to timely, relevant , and useful information.
+# Flight Fare Prediction
+ Developed a machine learning model to predict flight fares with 0.80 accuracy (R2 score) using
+Random Forest Regressor, outperforming Linear Regression and Decision Tree alternatives.
